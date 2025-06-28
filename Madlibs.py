@@ -1,6 +1,7 @@
 # Note that the Madlibs are not created by me there were done with ChatGPT.
 # The code however, is mine 
 
+# The A Day at the Zoo by chatGPT
 def A_Day_at_the_Zoo():
     print("Tell me an Adjective, Ex. Blue (Description)")
     adjective_1 = input()
@@ -31,7 +32,7 @@ def A_Day_at_the_Zoo():
     'Best. Zoo trip. Ever.\n'
     '-----------------------------------------------------------------------------------------------'""")
     return repeat_or_no()
-
+# The My Crazy Family Story by chatGPT
 def My_Crazy_Family():
     print("Tell me an Adjective, Ex. Blue (Description)")
     adjective1 = input()
@@ -60,7 +61,7 @@ def My_Crazy_Family():
     'And honestly? I love it.\n'
     '-----------------------------------------------------------------------------------------------'""")
     return repeat_or_no()
-
+# The The Weirdest Day Ever by chatGPT
 def The_Weirdest_Day_Ever():
     print("Tell me a day of the Week)")
     Day_of_the_Week = input()
